@@ -21,7 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [QR Code Challenge](https://richlee-demo.github.io/qr-code/)
+- Solution URL: [QR Code Challenge](https://github.com/Richlee-demo/qr-code/blob/main/index.html)
+- Live URL: [QR Code Challenge](https://richlee-demo.github.io/qr-code/)
 
 ## My process
 
