@@ -50,9 +50,11 @@ img {
   font-size: 12px;
   text-align: center;
   text-decoration: none;
-  margin-top: 24px;
+  padding-top: 24px;
   text-align: center;
-  width: 100%;
+  max-width: 208px;
+  justify-content: center;
+  margin: 0 auto;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
