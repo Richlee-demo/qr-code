@@ -66,14 +66,16 @@ footer {
     padding-left: 1rem;
     padding-right: 1rem;
     width: fit-content;
+    overflow-x: hidden;
   }
 }
 @media only screen and (max-width: 600px) {
-    body {
-      min-width: 100vw;
-      min-height: 100vh;
-      padding-left: 1rem;
-      padding-right: 1rem;
-      width: fit-content;
-    }
+  body {
+    min-width: 100vw;
+    min-height: 100vh;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    width: fit-content;
+    overflow-x: hidden;
   }
+}
