@@ -24,11 +24,11 @@ body {
 }
 .card-content {
   text-align: center;
-  gap: .5rem;
+  gap: 0.5rem;
 }
 /* Card content */
 img {
-  border-radius: .5rem;   
+  border-radius: 0.5rem;
   width: 100%;
   height: 100%;
 }
@@ -47,7 +47,7 @@ img {
 }
 /* Attribution */
 .attribution {
-  font-size: .75rem;
+  font-size: 0.75rem;
   text-decoration: none;
   text-align: center;
   min-width: 320px;
@@ -56,14 +56,24 @@ img {
   color: hsl(228, 45%, 44%);
   text-decoration: none;
 }
-footer{
-    margin: 0;
+footer {
+  margin: 0;
 }
 @media only screen and (max-width: 375px) {
+  body {
+    min-width: 100vw;
+    min-height: 100vh;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    width: fit-content;
+  }
+}
+@media only screen and (max-width: 600px) {
     body {
-        min-height: 100vh;
-        padding-left: 1rem;
-        padding-right: 1rem;
-        width: fit-content;
+      min-width: 100vw;
+      min-height: 100vh;
+      padding-left: 1rem;
+      padding-right: 1rem;
+      width: fit-content;
     }
   }
