@@ -55,6 +55,16 @@ To see how you can add code snippets, see below:
   justify-content: center;
   align-items: center;
 }
+body {
+  font-family: "Outfit", sans-serif;
+  background-color: hsl(212, 45%, 89%);
+  font-size: 16px;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
 ```
 
 ### Continued development
