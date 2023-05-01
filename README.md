@@ -39,7 +39,7 @@ Use this section to recap over some of your major learnings while working throug
 To see how you can add code snippets, see below:
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<h1>Some CSS code I'm proud of</h1>
 ```
 ```css
 .card {
@@ -54,7 +54,8 @@ To see how you can add code snippets, see below:
   display: flex;
   justify-content: center;
   align-items: center;
-}
+```
+```css
 body {
   font-family: "Outfit", sans-serif;
   background-color: hsl(212, 45%, 89%);
@@ -73,6 +74,6 @@ Looking ahead to future projects, my main objective is to ensure proper scaling 
 
 ## Author
 
-- Website - [Richard Adeyele]()
+- Website - [Richard Adeyele](https://app.uxcel.com/ux/LMA2N5TROOXQ)
 - Frontend Mentor - [@Richlee-demo](https://www.frontendmentor.io/profile/Richlee-demo)
 - Twitter - [@JCRichLee](https://www.twitter.com/JCRichLee)
