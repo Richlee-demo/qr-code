@@ -47,16 +47,16 @@ img {
 }
 /* Attribution */
 .attribution {
-  font-size: 12px;
-  text-align: center;
-  text-decoration: none;
-  padding-top: 24px;
-  text-align: center;
-  max-width: 208px;
-  justify-content: center;
-  margin: 0 auto;
+    font-size: 12px;
+    text-decoration: none;
+    padding-top: 24px;
+    text-align: center;
+    min-width: 320px;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
   text-decoration: none;
+}
+.divider{
+    margin: 80px;
 }
