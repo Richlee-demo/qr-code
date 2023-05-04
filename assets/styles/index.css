@@ -66,8 +66,6 @@ footer {
     padding-left: 1rem;
     padding-right: 1rem;
     width: fit-content;
-    /* overflow-x: hidden;
-    max-width: 100%; */
   }
 }
 @media only screen and (max-width: 600px) {
@@ -77,7 +75,5 @@ footer {
     padding-left: 1rem;
     padding-right: 1rem;
     width: fit-content;
-    /* overflow-x: hidden;
-    max-width: 100%; */
   }
 }

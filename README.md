@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Screenshot](./images/screenshot.png)
+![Screenshot](./assets/images/screenshot.png)
 
 ### Links
 
@@ -31,7 +31,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - HTML
 - CSS
 
-
 ### What I learned
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
@@ -41,6 +40,7 @@ To see how you can add code snippets, see below:
 ```html
 <h1>Some CSS code I'm proud of</h1>
 ```
+
 ```css
 .card {
   width: 320px;
@@ -55,6 +55,7 @@ To see how you can add code snippets, see below:
   justify-content: center;
   align-items: center;
 ```
+
 ```css
 body {
   font-family: "Outfit", sans-serif;
